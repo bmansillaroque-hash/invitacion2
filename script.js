@@ -31,7 +31,7 @@ var D = {
   // formulario: (opcional) link de un Google Forms. Si lo ponés, aparece otro botón.
   // Si dejás los dos vacíos "", la sección no se muestra.
   confirmacion: {
-    whatsapp: "5492612645947",
+    whatsapp: "5492615451535",
     formulario: "",
     maxPersonas: 6,
     texto: "Contanos si podés venir así organizamos todo. ¡Gracias!"
